@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Key_1 2
   m_EditorClassIdentifier: 
   itemName: cacahuete
-  description: 'ves un cacauhuete en el suel '
+  description: ves un cacauhuete en el suelo
   interactions:
   - inputAction: {fileID: 11400000, guid: a6bc175bbd3aa457fbd3de0c589bc795, type: 2}
     responseDescription: es un cacahuete medio comido parece apetitoso eso te llena

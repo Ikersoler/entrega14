@@ -16,10 +16,11 @@ MonoBehaviour:
   description: 
   exits:
   - direction: norte
-    description: puerta abierta cacahuete
+    description: al norte ves luz salir de esa habitacion y parece haver algo mas
+      en el suelo
     room: {fileID: 11400000, guid: 4d8e3b8fcf3d83840879fbdebe5726de, type: 2}
   - direction: este
-    description: la abitacin del inicio
+    description: al este la habitacion del inicio
     room: {fileID: 11400000, guid: 4ba9bc99218c3444e8bca048d25820b0, type: 2}
   items:
   - {fileID: 11400000, guid: 776e6d722e8ce054aae9939a55129e14, type: 2}

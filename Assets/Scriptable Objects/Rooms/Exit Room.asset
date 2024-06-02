@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Exit Room
   m_EditorClassIdentifier: 
   roomName: exit room
-  description: You Win!
+  description: Has conseguido salir de la cueva!!
   exits: []
   items: []

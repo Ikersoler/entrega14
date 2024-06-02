@@ -1682,9 +1682,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a
-    lacus est. Etiam diam metus, lobortis non augue at, placerat viverra risus. Cras
-    ornare faucibus laoreet. '
+  m_text: Te adentrentras adentras en una cueva vasttante extrala de la cual parece
+    haber restos de contruciones antiguas.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8ad4bd5312858411d8eccc556858acb4, type: 2}
   m_sharedMaterial: {fileID: 2442607791695215157, guid: 8ad4bd5312858411d8eccc556858acb4,

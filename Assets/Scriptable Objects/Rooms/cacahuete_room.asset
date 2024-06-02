@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6d257c47720940e2b41805fd60b1c81, type: 3}
   m_Name: cacahuete_room
   m_EditorClassIdentifier: 
-  roomName: 
-  description: 
+  roomName: cacahuete room
+  description: puedes ver la luz del exterior de la salida.
   exits:
   - direction: norte
-    description: 
+    description: 'al norte esta la salida '
     room: {fileID: 11400000, guid: 75664ad3ae5804afbb0b9e2290a6b5ac, type: 2}
   - direction: sur
-    description: 
+    description: al sur la habitacion del palo
     room: {fileID: 11400000, guid: f1d9c4593d636a84bae0ad05724dcc91, type: 2}
   items:
   - {fileID: 11400000, guid: e409d26303c809c4f9bbeca173a2a57d, type: 2}

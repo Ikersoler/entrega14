@@ -16,9 +16,9 @@ MonoBehaviour:
   description: 
   exits:
   - direction: oeste
-    description: You see a door to the north
+    description: 'se ha abierto la puerta del oeste '
     room: {fileID: 11400000, guid: f1d9c4593d636a84bae0ad05724dcc91, type: 2}
   - direction: este
-    description: A new door is opened to the south
+    description: 'al este es la habitacion de la llave dorada '
     room: {fileID: 11400000, guid: b95ca4cb00cc94ee2a8a831b128e6e17, type: 2}
   items: []
